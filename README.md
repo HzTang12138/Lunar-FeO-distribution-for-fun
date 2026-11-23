@@ -16,7 +16,7 @@
 - **主要变量：** `W_FEO`（以 FeO 当量表示的质量分数，g/g）
 - **转换：** `FeO (wt.%) = W_FEO × 100`
 - **数据说明：** https://pds-geosciences.wustl.edu/missions/lunarp/grs_elem_abundance.html
-- **官方文件目录：** https://pds-geosciences.wustl.edu/lunar/lp-l-grs-5-elem-abundance-v1/lp_9001/data/lpgrs_high1_elem_abundance_2deg.tab
+- **文件下载地址：** https://pds-geosciences.wustl.edu/lunar/lp-l-grs-5-elem-abundance-v1/lp_9001/data/lpgrs_high1_elem_abundance_2deg.tab
 
 原始表格中的网格经纬度边界用于确定空间位置和球面面积权重。
 此数据已是 NASA PDS 提供的丰度反演产品，**本项目没有从原始伽马射线计数重新反演 FeO**。
