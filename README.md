@@ -25,7 +25,7 @@
 
 ## 2. 运行环境
 
-以下为作者在 Windows、Visual Studio Code 和 Anaconda `base` 环境中**实际成功复现**时使用的版本：
+以下为我在 Windows、Visual Studio Code1.145 和 Anaconda `base` 环境中**实际成功复现**时使用的版本：
 
 | 软件 / 库 | 版本 |
 | --- | --- |
@@ -59,7 +59,7 @@ Lunar-FeO-Distribution-Analysis/
 ├── figure2_area_weighted_histogram.png # 全球面积加权直方图
 ├── figure3_ce4_regional_feo_map.png    # 嫦娥四号附近 FeO 图
 ├── figure4_ce4_global_comparison.png   # 不同区域平均值比较图
-└── lpgrs_high1_elem_abundance_2deg.tab # NASA 原始数据：自行下载，担心版权不上传 GitHub
+└── lpgrs_high1_elem_abundance_2deg.tab # NASA 原始数据：自行下载，担心版权不上传 GitHub，见数据来源最后一项
 ```
 
 **重要：** 此处使用的是作者本地重命名后的脚本名称。
