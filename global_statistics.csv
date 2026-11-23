@@ -1,0 +1,15 @@
+metric,value,unit
+n_grid_cells,11306.0,cells
+sphere_area_coverage_fraction,1.0,fraction
+unweighted_grid_mean,7.378923068282327,wt.%
+area_weighted_global_mean,7.40590464660529,wt.%
+minimum_all_records,0.0,wt.%
+maximum_all_records,30.749,wt.%
+median_grid_value,5.498150000000001,wt.%
+grid_p05,2.9538249999999997,wt.%
+grid_p95,19.119,wt.%
+zero_valued_records_flagged,1.0,cells
+grid_mean_excluding_zero_sensitivity_only,7.379575781512604,wt.%
+area_weighted_mean_excluding_zero_sensitivity_only,7.406443231011633,wt.%
+CE4_landing_cell_FEO,7.2173,wt.%
+CE4_landing_cell_pixel_index,1716.0,index

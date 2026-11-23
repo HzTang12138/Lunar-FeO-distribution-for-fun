@@ -1,0 +1,6 @@
+sample,selection,n_cells,area_weighted_mean_wt_percent,minimum_wt_percent,maximum_wt_percent,note
+Global (all cells),Whole Moon,11306,7.40590464660529,0.0,30.749,Area-weighted full sphere
+CE4 neighborhood 5 deg,Bin centers within 5 degrees angular distance,23,9.17563778012387,6.8504,13.135,Selection is by grid center; boundary bins not fractionally clipped
+CE4 neighborhood 10 deg,Bin centers within 10 degrees angular distance,90,8.89286618381663,5.3544,13.135,Selection is by grid center; boundary bins not fractionally clipped
+CE4 neighborhood 15 deg,Bin centers within 15 degrees angular distance,200,9.060851863197708,5.3222,13.135,Selection is by grid center; boundary bins not fractionally clipped
+CE4 landing bin,Grid containing exact landing coordinate,1,7.2173,7.2173,7.2173,"Orbital 2-degree bin, not a Yutu-2 in-situ measurement"
